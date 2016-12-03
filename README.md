@@ -1,5 +1,4 @@
 # faceCropper
-Cropping faces of an Image
 
 It crops the faces inside of an Image and save them separately.
 
